@@ -1,8 +1,5 @@
-Scene Text Recognition Task
-
-with PSENet and Robust Scanner，with the help of mmocr
-
-Achieve a F1 score of 35% in the given dataset
+## Abstract
+Scene Text Recognition Task with PSENet and Robust Scanner，with the help of mmocr，achieving a F1 score of 35% in the given dataset
 
 ## Demo
  
